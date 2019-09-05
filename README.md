@@ -2,7 +2,7 @@
 
 Thanks for register practical AI class. 
 
-I'm Jun Wang, one of the founders of StemEDUx. Our goal is to help student with passion in STEM and have intention to pursue STEM education and career. 
+I'm Jun Wang, one of the founders of STEM EduX. Our goal is to help student with passion in STEM and have intention to pursue STEM education and career. 
 This couse particularly to provide you with techniques and approaches for building better NLP chatbots and applicatoins. 
 
 First thing first, to start with some basics. This will make sure you have a working chatbot. There are two steps to learning the basics. 
