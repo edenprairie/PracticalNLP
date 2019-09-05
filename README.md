@@ -12,3 +12,9 @@ There are following major components to build a chatbot
 
 Learn these basics will get you started but most important is learning through doing. We will have project driven approche, each one of class will have time to doing hands on lab. We hope each one of you can finish some interesting projects. 
 
+- Intro to Dialogflow
+  - intents, entities, contexts and webhooks
+  - Learn about candidate intents
+  - Learn about conversation don'ts
+  - Decision tree
+  - 
