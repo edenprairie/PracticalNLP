@@ -1,4 +1,4 @@
-# PracticalNLP
+# Practical NLP
 
 Thanks for register practical AI class. 
 
